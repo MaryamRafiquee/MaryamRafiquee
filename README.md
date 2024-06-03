@@ -1,7 +1,6 @@
 ## Hi there :raising_hand:
 
-<!--
-**MaryamRafiquee/MaryamRafiquee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Maryam Rafique **, an enthausiastic software engineer currency self-learning Data Analytics :woman_office_worker:
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
