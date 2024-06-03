@@ -1,6 +1,6 @@
 ## Hi there :raising_hand:
 
-**I'm Maryam Rafique **, an enthausiastic software engineer currency self-learning Data Analytics :woman_office_worker:
+I'm **Maryam Rafique**, an enthausiastic software engineer currency self-learning Data Analytics :woman_office_worker:
 
 Here are some ideas to get you started:
 
